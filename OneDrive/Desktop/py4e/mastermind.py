@@ -1,7 +1,9 @@
 import random as rn
 
+#generating a random number
 gen_no = rn.randrange(1000,10000)
 
+#starting the game
 print('Are you the MASTERMIND??')
 print('Rule: '
       'You have to guess the 4 digit number'
